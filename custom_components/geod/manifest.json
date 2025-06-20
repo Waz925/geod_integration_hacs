@@ -1,7 +1,7 @@
 {
   "domain": "geod",
   "name": "GEOD Token Integration",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "documentation": "https://github.com/Waz925/geod-ha-dashboard",
   "requirements": [],
   "codeowners": ["@Waz925"],
