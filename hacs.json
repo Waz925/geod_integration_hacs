@@ -1,0 +1,9 @@
+{
+  "name": "GEOD Token Integration",
+  "content_in_root": false,
+  "render_readme": true,
+  "description": "Track GEOD token balance, price, and rewards in Home Assistant.",
+  "domain": "geod",
+  "country": "all",
+  "category": "integration"
+}

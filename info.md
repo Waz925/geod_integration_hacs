@@ -1,0 +1,1 @@
+Track GEOD token balance, price, and daily rewards in Home Assistant.
