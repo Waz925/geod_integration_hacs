@@ -1,0 +1,10 @@
+{
+  "domain": "geod",
+  "name": "GEOD Token Integration",
+  "version": "1.0.0",
+  "documentation": "https://github.com/Waz925/geod-ha-dashboard",
+  "requirements": [],
+  "codeowners": ["@Waz925"],
+  "config_flow": true,
+  "iot_class": "cloud_polling"
+}
