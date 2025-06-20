@@ -1,2 +1,1 @@
 DOMAIN = "geod"
-UPDATE_INTERVAL = 21600  # 6 hours

@@ -3,9 +3,9 @@
   "name": "GEOD Wallet Integration",
   "version": "1.0.0",
   "config_flow": true,
-  "documentation": "https://github.com/yourgithub/geod-ha-dashboard",
-  "requirements": [],
-  "codeowners": ["@yourgithub"],
+  "documentation": "https://github.com/Waz925/geod-ha-dashboard",
+  "requirements": ["aiohttp"],
+  "codeowners": ["@Waz925"],
   "iot_class": "cloud_polling",
   "integration_type": "service",
   "platforms": ["sensor"]
