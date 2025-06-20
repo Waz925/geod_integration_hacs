@@ -1,0 +1,1 @@
+GEOD integration for Home Assistant with balance, price, USD value and rewards tracking.
